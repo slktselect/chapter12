@@ -1,0 +1,15 @@
+body {
+    /* 设置全局背景图片 */
+    @apply tw-bg-[url(images/bg.png)] 
+    tw-bg-fixed tw-bg-cover tw-bg-no-repeat tw-bg-center;
+}
+
+pre:has(.hljs),
+.hljs {
+    color: #c9d1d9;
+    background: #0d1117;
+}
+
+.lucide {
+    @apply tw-w-4 tw-h-4 tw-stroke-[1px];
+}

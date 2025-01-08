@@ -1,0 +1,15 @@
+.logo {
+    @apply tw-flex tw-flex-none tw-items-center;
+}
+
+.logo > a {
+    @apply tw-flex tw-items-center tw-gap-2  tw-text-xl tw-font-bold tw-bg-gradient-to-r tw-bg-clip-text tw-text-transparent;
+}
+
+.logo-scrolled > a {
+    @apply tw-from-gray-700 tw-to-black/80;
+}
+
+.logo-unscrolled > a {
+    @apply tw-from-slate-200/80 tw-to-slate-100/90;
+}

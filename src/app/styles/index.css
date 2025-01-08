@@ -1,0 +1,19 @@
+@import 'tailwindcss/base';
+@import './vars.css';
+@import './tailwind/base.css';
+@import 'tailwindcss/components';
+@import './tailwind/components.css';
+@import 'tailwindcss/utilities';
+@import './tailwind/utilities.css';
+@import './app.css';
+
+/* md-editor-rt的arknights主题专用样式 */
+@import '@vavt/cm-extension/dist/previewTheme/arknights.css';
+
+/* 使用其它非默认以及arknights的md-editor-rt主题时导入以下样式文件 */
+
+/* @import '@vavt/markdown-theme/all.css'; */
+
+/* 如果使用markdown编辑器渲染而不是mdx,请务必注释prism的导入,以免样式冲突 */
+
+/* @import './prism.css'; */

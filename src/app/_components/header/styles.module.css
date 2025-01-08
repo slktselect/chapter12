@@ -1,0 +1,16 @@
+.header {
+    @apply tw-fixed tw-top-0 tw-w-full tw-z-40 tw-transition-all tw-mt-0;
+    transition: background-color 300ms ease-in-out;
+}
+
+.header-scrolled {
+    @apply tw-border-b tw-border-gray-200/40 tw-shadow-md tw-bg-white/40 tw-backdrop-blur-md;
+}
+
+.header-unscrolled {
+    @apply tw-bg-transparent;
+}
+
+.header > .container {
+    @apply tw-flex tw-h-12 tw-w-full tw-mb-0 tw-justify-between tw-flex-row;
+}
