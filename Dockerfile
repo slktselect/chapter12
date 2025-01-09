@@ -18,12 +18,12 @@ WORKDIR /usr/src/app
 # 复制源代码到容器
 COPY . .
 
-RUN pnpm update
+# 安装依赖
+RUN ["pnpm", "install"]
 
-# RUN pnpm build
+RUN chmod +x build.sh && ./build.sh
 
-# Expose the port the app will be running on
+# 暴露端口
 EXPOSE 3000
 
-# 启动应用
-CMD ping 127.0.0.1
+CMD chmod +x start.sh && ./start.sh

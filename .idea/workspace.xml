@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72c2c88-b56d-4ba0-a213-d6565b88d499" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.Docker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/redis.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/redis.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.BLOB" beforeDir="false" afterPath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.BLOB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.MAP" beforeDir="false" afterPath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.MAP" afterDir="false" />
-    </list>
+    <list default="true" id="b72c2c88-b56d-4ba0-a213-d6565b88d499" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +55,7 @@
       <workItem from="1736308022633" duration="1307000" />
       <workItem from="1736326511814" duration="14000" />
       <workItem from="1736385504173" duration="13000" />
+      <workItem from="1736401579858" duration="359000" />
     </task>
     <servers />
   </component>
