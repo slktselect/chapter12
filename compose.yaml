@@ -12,6 +12,8 @@ services:
       context: .
     environment:
       NODE_ENV: production
+      NEXT_PUBLIC_BASE_URL: http://localhost:3000
+      DATABASE_URL: file:../../../dev.db
     depends_on:
       - redis
     ports:
