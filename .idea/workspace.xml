@@ -4,34 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72c2c88-b56d-4ba0-a213-d6565b88d499" name="更改" comment="" />
+    <list default="true" id="b72c2c88-b56d-4ba0-a213-d6565b88d499" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.Docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/redis.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/redis.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.BLOB" beforeDir="false" afterPath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.BLOB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.MAP" beforeDir="false" afterPath="$PROJECT_DIR$/v8-compile-cache-0/12.9.202.28-node.11/zSmntzSczSUserszSAdministratorzSDownloadszSts-fullstack-mainzSts-fullstackzSchapter12zSnode_moduleszS.pnpmzSts-node@10.9.2_@types+node@22.10.2_typescript@5.7.2zSnode_moduleszSts-nodezSdistzSbin.js.MAP" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2rKW08lPGPKcW9kPkfst26tdOlx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Downloads/ts-fullstack-main/ts-fullstack/chapter12",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "pnpm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Administrator\\Downloads\\ts-fullstack-main\\ts-fullstack\\chapter12\\node_modules\\prettier",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Downloads/ts-fullstack-main/ts-fullstack/chapter12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\Administrator\\Downloads\\ts-fullstack-main\\ts-fullstack\\chapter12\\node_modules\\prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736308021522</updated>
       <workItem from="1736308022633" duration="1307000" />
+      <workItem from="1736326511814" duration="14000" />
+      <workItem from="1736385504173" duration="13000" />
     </task>
     <servers />
   </component>

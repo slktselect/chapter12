@@ -1,0 +1,24 @@
+services:
+  redis:
+    image: redis
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - mynetwork  # 确保 Redis 使用一个网络
+
+  server:
+    build:
+      context: .
+    environment:
+      NODE_ENV: production
+    depends_on:
+      - redis
+    ports:
+      - 3000:3000
+    networks:
+      - mynetwork  # 确保 server 也连接到同一个网络
+
+networks:
+  mynetwork:
+    driver: bridge
